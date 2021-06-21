@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priyam-raut
-- 📫 How to reach me priyam.raut@gmail.com
+- 📫 How to reach me priyam.raut@prevailtherapeutics.com
 
 <!---
 priyam-raut/priyam-raut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
